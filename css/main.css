@@ -4,10 +4,14 @@
 
   background-color: #030303;
 }
-.Dale {
+.navbar {
   background-color: #8430c8;
 }
 
 .smokeColor {
   background-color: #101010;
+}
+
+h1 {
+  color: rgb(224, 224, 224);
 }
