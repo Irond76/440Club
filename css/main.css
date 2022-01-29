@@ -25,3 +25,7 @@ h1 {
   background-size: cover;
   position: relative;
 }
+
+.site-footer {
+  background-color: #8430c8;
+}
