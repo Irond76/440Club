@@ -59,3 +59,11 @@ h2 {
 a {
   color: rgb(224, 224, 224);
 }
+
+#loginButton {
+  background-color: #41006c;
+  color: aliceblue;
+  margin-left: 5px;
+  border: none;
+  box-shadow: #030303 1.5px 1.5px;
+}
